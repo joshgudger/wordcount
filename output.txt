@@ -1,0 +1,5 @@
+rizz 3
+world 2
+java 2
+skibidi 1
+hello 2
